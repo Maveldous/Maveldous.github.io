@@ -1,0 +1,19 @@
+.block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background: black;
+  color: #fff;
+  font-size: 60px;
+  transition: all 1s ease;
+}
+
+.board {
+  position: relative;
+  width: 600px;
+  height: 400px;
+  background: yellow;
+}
