@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Some_projects/gifTSProject/img/loading1.1a7a8ab9.gif"
   },
   {
-    "revision": "a7be8bba24b15de24d41f9674c0b7fea",
+    "revision": "7124b6e90f17263b98ab1f4c1d274124",
     "url": "/Some_projects/gifTSProject/index.html"
   },
   {
-    "revision": "000df571cb3a767a8d1b",
-    "url": "/Some_projects/gifTSProject/js/app.abcb3187.js"
+    "revision": "54ca3cc931c6aa3583ef",
+    "url": "/Some_projects/gifTSProject/js/app.bcbe1610.js"
   },
   {
     "revision": "5047e90df80052214ac0",
