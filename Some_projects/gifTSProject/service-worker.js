@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Some_projects/gifTSProject/precache-manifest.ecf3c500a4359d123530f57ef795e056.js"
+  "/Some_projects/gifTSProject/precache-manifest.0f28bc36160f164f620de268285a03fd.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "tsvuetify"});
